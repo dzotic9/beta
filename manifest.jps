@@ -1,1 +1,7 @@
-{"name":"beta","type":"update"}
+{
+  "name": "beta",
+  "type": "update",
+  "onInstall": {
+    "log": "Test1"
+  }
+}
