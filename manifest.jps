@@ -2,6 +2,6 @@
   "name": "beta",
   "type": "update",
   "onInstall": {
-    "createFile": "/tmp/Test1"
+    "createFile [cp]": "/tmp/Test1"
   }
 }
