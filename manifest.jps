@@ -2,6 +2,6 @@
   "name": "beta",
   "type": "update",
   "onInstall": {
-    "log": "Test1"
+    "createFile": "/tmp/Test1"
   }
 }
